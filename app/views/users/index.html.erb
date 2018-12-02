@@ -5,6 +5,7 @@
   <table class="table table-hover">
     <thead>
       <tr>
+        <th>image</th>
 	<th>Name</th>
         <th>Email</th>
         <th>Gender</th>
@@ -16,14 +17,15 @@
     <tbody>
       <% @users.each do |user| %>
 	<tr>	
+    <td><% if user.avatar.present? %><%=  image_tag("http://18.224.230.102:5000/"+user.avatar.url, :alt => "icon")%> <%= user.avatar.url %> <% else %><%= '' %><% end  %>
     <td><%= user.name %></td>
   	<td><%= user.email %></td>
         <td><% if user.gender == 'M' %>Male <% else %> Female <% end %></td>
         <td><%= user.dob %></td>
         <td><%= user.address %></td>
 	<td><%= user.phone %></td>        
-       
-    	<td><% if current_user._id != user._id %><%= link_to 'Destroy', user, :confirm => 'Are you sure?',
+
+    	<td>         <%= link_to 'Edit', edit_user_path(user) %> <% if current_user._id != user._id %><%= link_to 'Destroy', user, :confirm => 'Are you sure?',
                                      :method => :delete %><% end %></td>
         </tr>
 <% end %>

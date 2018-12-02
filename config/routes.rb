@@ -2,8 +2,9 @@ Rails.application.routes.draw do
   
   get 'abouts/index'
 
-  
-  resources :users, only: [:new, :create, :destroy, :index]
+  match "/images/uploads/*path" => "gridfs#serve", via: [:get, :post]
+  resources :users
+  resources :gridfs
   resources :sessions, only: [:new, :create, :destroy]
   get 'signup', to: 'users#new', as: 'signup'
   get 'login', to: 'sessions#new', as: 'login'

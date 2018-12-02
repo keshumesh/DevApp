@@ -68,3 +68,12 @@ gem 'bson_ext'
 gem 'bcrypt' 
 
 gem 'unicorn'
+
+#gem 'carrierwave-mongoid'
+gem 'mini_magick', :require => 'mini_magick'
+
+gem 'carrierwave'
+gem 'carrierwave-mongoid'
+gem 'unicorn'
+
+gem "capistrano"

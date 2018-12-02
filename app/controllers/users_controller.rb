@@ -24,7 +24,8 @@ class UsersController < ApplicationController
       render "new"
     end
   end
- 
+  
+  
 
   def edit
     
@@ -57,7 +58,7 @@ class UsersController < ApplicationController
 
   private
     def user_params
-      params.require(:user).permit(:name, :email, :phone, :password, :gender, :dob, :address)
+      params.require(:user).permit(:name, :email, :phone, :password, :gender, :dob, :address, :avatar)
     end
    
     def find_user

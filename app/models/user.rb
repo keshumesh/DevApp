@@ -11,7 +11,7 @@ class User
   field :address, type: String
   field :avatar, type: String
 
-  
+  mount_uploader :avatar, AvatarUploader
 
   def password
     @password ||= Password.new(password_hash)

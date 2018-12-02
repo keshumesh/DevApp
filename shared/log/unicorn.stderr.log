@@ -1,0 +1,169 @@
+I, [2018-11-23T17:40:53.373140 #29485]  INFO -- : Refreshing Gem list
+I, [2018-11-23T17:40:54.166043 #29485]  INFO -- : listening on addr=/home/ubuntu/projects/DevApp/DevApp/shared/sockets/unicorn.sock fd=12
+I, [2018-11-23T17:40:54.166210 #29485]  INFO -- : worker=0 spawning...
+I, [2018-11-23T17:40:54.168160 #29485]  INFO -- : worker=1 spawning...
+I, [2018-11-23T17:40:54.169270 #29485]  INFO -- : master process ready
+I, [2018-11-23T17:40:54.182534 #29488]  INFO -- : worker=0 spawned pid=29488
+I, [2018-11-23T17:40:54.182688 #29488]  INFO -- : worker=0 ready
+I, [2018-11-23T17:40:54.183759 #29490]  INFO -- : worker=1 spawned pid=29490
+I, [2018-11-23T17:40:54.183903 #29490]  INFO -- : worker=1 ready
+D, [2018-11-26T05:30:30.642883 #29485] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2018-11-26T05:31:22.549226 #29485] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2018-11-26T05:32:10.044970 #29485] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2018-11-26T05:32:56.686966 #29485] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2018-11-26T05:33:41.940684 #29485] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2018-11-26T05:34:27.269575 #29485] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2018-11-26T05:35:13.360158 #29485] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2018-11-26T05:35:59.837342 #29485] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2018-11-26T05:36:46.660201 #29485] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2018-11-26T05:37:38.105934 #29485] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2018-11-26T05:38:29.115863 #29485] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2018-11-26T05:39:14.339629 #29485] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2018-11-26T05:40:03.794662 #29485] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2018-11-26T05:40:52.078154 #29485] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2018-11-26T05:41:35.195992 #29485] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2018-11-26T05:42:28.529155 #29485] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2018-11-26T05:43:22.019164 #29485] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2018-11-26T05:44:23.020947 #29485] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2018-11-26T05:45:17.132581 #29485] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2018-11-26T05:46:16.376441 #29485] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2018-11-26T05:47:11.466087 #29485] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2018-11-26T05:48:11.630296 #29485] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2018-11-26T05:49:13.393185 #29485] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2018-11-26T05:50:08.057247 #29485] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2018-11-26T05:51:40.013392 #29485] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2018-11-26T05:52:40.335498 #29485] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2018-11-26T05:53:38.372594 #29485] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2018-11-26T05:54:41.592202 #29485] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2018-11-26T05:55:42.302448 #29485] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2018-11-26T05:56:45.798527 #29485] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2018-11-26T05:57:47.676188 #29485] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2018-11-26T05:58:40.911094 #29485] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2018-11-26T05:59:32.155485 #29485] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2018-11-26T06:00:34.248091 #29485] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2018-11-26T06:01:30.736070 #29485] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2018-11-26T06:02:23.615214 #29485] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2018-11-26T06:03:24.641840 #29485] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2018-11-26T06:04:23.471868 #29485] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2018-11-26T06:05:26.566471 #29485] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2018-11-26T06:06:32.543310 #29485] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2018-11-26T06:07:24.202216 #29485] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2018-11-26T06:08:24.624762 #29485] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2018-11-26T06:09:28.416283 #29485] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2018-11-26T06:10:27.670282 #29485] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2018-11-26T06:11:28.565868 #29485] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2018-11-26T06:12:30.463800 #29485] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2018-11-26T06:13:33.169422 #29485] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2018-11-26T06:14:37.137741 #29485] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2018-11-26T06:15:40.296170 #29485] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2018-11-26T06:16:42.734161 #29485] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2018-11-26T06:17:47.764230 #29485] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2018-11-26T06:18:54.082760 #29485] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2018-11-26T06:19:54.142729 #29485] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2018-11-26T06:20:51.892567 #29485] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2018-11-26T06:21:54.057487 #29485] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2018-11-26T06:22:45.832470 #29485] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2018-11-26T06:23:50.128588 #29485] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2018-11-26T06:24:56.071992 #29485] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2018-11-26T06:26:01.939168 #29485] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2018-11-26T06:27:35.117505 #29485] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2018-11-26T06:28:42.592701 #29485] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2018-11-26T06:29:52.138005 #29485] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2018-11-26T06:30:45.236005 #29485] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2018-11-26T06:31:48.044395 #29485] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2018-11-26T06:32:55.047386 #29485] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2018-11-26T06:33:59.516132 #29485] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2018-11-26T06:34:59.110169 #29485] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2018-11-26T06:35:57.654402 #29485] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2018-11-26T06:37:00.875670 #29485] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2018-11-26T06:38:05.920708 #29485] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2018-11-26T06:39:08.674734 #29485] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2018-11-26T06:40:14.779473 #29485] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2018-11-26T06:41:20.362107 #29485] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2018-11-26T06:42:19.805657 #29485] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2018-11-26T06:43:19.685997 #29485] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2018-11-26T06:44:25.099210 #29485] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2018-11-26T06:45:41.620378 #29485] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2018-11-26T06:46:51.648290 #29485] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2018-11-26T06:47:56.011496 #29485] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2018-11-26T06:49:00.428734 #29485] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2018-11-26T06:50:12.259970 #29485] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2018-11-26T06:51:18.637597 #29485] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2018-11-26T06:52:19.840133 #29485] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2018-11-26T06:53:23.621972 #29485] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2018-11-26T06:54:20.108612 #29485] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2018-11-26T06:55:29.017812 #29485] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2018-11-26T06:56:31.297347 #29485] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2018-11-26T06:57:37.417313 #29485] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2018-11-26T06:58:49.923910 #29485] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2018-11-26T07:00:01.303767 #29485] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2018-11-26T07:01:02.104127 #29485] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2018-11-26T07:02:10.470141 #29485] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2018-11-26T07:03:16.009462 #29485] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2018-11-26T07:04:47.003821 #29485] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2018-11-26T07:05:47.395283 #29485] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2018-11-26T07:06:49.332211 #29485] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2018-11-26T07:07:50.284241 #29485] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2018-11-26T07:08:57.058941 #29485] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2018-11-26T07:09:51.922092 #29485] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2018-11-26T07:10:52.256675 #29485] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2018-11-26T07:11:48.589814 #29485] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2018-11-26T07:12:45.126979 #29485] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2018-11-26T07:13:39.869270 #29485] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2018-11-26T07:14:37.569956 #29485] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2018-11-26T07:15:42.161699 #29485] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2018-11-26T07:16:49.793597 #29485] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2018-11-26T07:17:51.398237 #29485] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2018-11-26T07:18:52.753355 #29485] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2018-11-26T07:19:52.692975 #29485] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2018-11-26T07:20:51.913789 #29485] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2018-11-26T07:21:57.024406 #29485] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2018-11-26T07:23:00.760696 #29485] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2018-11-26T07:24:09.412176 #29485] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2018-11-26T07:25:16.278687 #29485] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2018-11-26T07:26:23.407249 #29485] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2018-11-26T07:27:27.651099 #29485] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2018-11-26T07:28:25.775379 #29485] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2018-11-26T07:29:24.156243 #29485] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2018-11-26T07:30:40.743610 #29485] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2018-11-26T07:35:48.008686 #29485] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2018-11-26T07:44:33.826527 #29485] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2018-11-26T07:53:47.219537 #29485] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2018-11-26T08:02:05.850870 #29485] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2018-11-26T08:11:08.240226 #29485] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2018-11-26T08:21:49.132898 #29485] DEBUG -- : waiting 16.0s after suspend/hibernation
+D, [2018-11-26T08:24:11.940279 #29485] DEBUG -- : waiting 16.0s after suspend/hibernation
+I, [2018-11-26T18:03:38.975251 #29485]  INFO -- : reaped #<Process::Status: pid 29490 exit 0> worker=1
+I, [2018-11-26T18:03:38.992693 #29485]  INFO -- : reaped #<Process::Status: pid 29488 exit 0> worker=0
+I, [2018-11-26T18:03:38.993490 #29485]  INFO -- : reloading config_file=config/unicorn.rb
+I, [2018-11-26T18:03:39.286149 #29485]  INFO -- : Refreshing Gem list
+I, [2018-11-26T18:03:39.308132 #29485]  INFO -- : done reloading config_file=config/unicorn.rb
+I, [2018-11-26T18:03:39.308289 #29485]  INFO -- : master complete
+I, [2018-12-02T05:55:37.538752 #11094]  INFO -- : Refreshing Gem list
+I, [2018-12-02T05:55:38.269612 #11094]  INFO -- : unlinking existing socket=/home/ubuntu/projects/DevApp/DevApp/shared/sockets/unicorn.sock
+I, [2018-12-02T05:55:38.270167 #11094]  INFO -- : listening on addr=/home/ubuntu/projects/DevApp/DevApp/shared/sockets/unicorn.sock fd=13
+I, [2018-12-02T05:55:38.270280 #11094]  INFO -- : worker=0 spawning...
+I, [2018-12-02T05:55:38.271722 #11094]  INFO -- : worker=1 spawning...
+I, [2018-12-02T05:55:38.272643 #11094]  INFO -- : master process ready
+I, [2018-12-02T05:55:38.284786 #11103]  INFO -- : worker=0 spawned pid=11103
+I, [2018-12-02T05:55:38.284956 #11103]  INFO -- : worker=0 ready
+I, [2018-12-02T05:55:38.285543 #11105]  INFO -- : worker=1 spawned pid=11105
+I, [2018-12-02T05:55:38.285644 #11105]  INFO -- : worker=1 ready
+157.33.144.64 - - [02/Dec/2018:05:55:59 +0000] "GET / HTTP/1.0" 200 - 0.2611
+157.33.144.64 - - [02/Dec/2018:05:55:59 +0000] "GET /abouts.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1 HTTP/1.0" 200 - 0.0141
+157.33.144.64 - - [02/Dec/2018:05:55:59 +0000] "GET /users.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1 HTTP/1.0" 200 - 0.0061
+157.33.144.64 - - [02/Dec/2018:05:55:59 +0000] "GET /sessions.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1 HTTP/1.0" 200 - 0.2317
+157.33.144.64 - - [02/Dec/2018:05:55:59 +0000] "GET /application.self-bc1d526ae8fdbb1607004f5ecb83e645dfdb6e039e179e4cc85ec4cdc1ddae89.css?body=1 HTTP/1.0" 200 7912 0.0028
+157.33.144.64 - - [02/Dec/2018:05:55:59 +0000] "GET /rails-ujs.self-3b600681e552d8090230990c0a2e8537aff48159bea540d275a620d272ba33a0.js?body=1 HTTP/1.0" 200 26758 0.0041
+157.33.144.64 - - [02/Dec/2018:05:55:59 +0000] "GET /activestorage.self-0525629bb5bac7ed5f2bfc58a9679d75705e426dafd6957ae9879db97c8e9cbe.js?body=1 HTTP/1.0" 200 19248 0.0036
+157.33.144.64 - - [02/Dec/2018:05:55:59 +0000] "GET /turbolinks.self-569ee74eaa15c1e2019317ff770b8769b1ec033a0f572a485f64c82ddc8f989e.js?body=1 HTTP/1.0" 200 38521 0.0032
+157.33.144.64 - - [02/Dec/2018:05:55:59 +0000] "GET /abouts.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1 HTTP/1.0" 200 31 0.0028
+157.33.144.64 - - [02/Dec/2018:05:56:00 +0000] "GET /action_cable.self-69fddfcddf4fdef9828648f9330d6ce108b93b82b0b8d3affffc59a114853451.js?body=1 HTTP/1.0" 200 20539 0.0030
+157.33.144.64 - - [02/Dec/2018:05:56:00 +0000] "GET /cable.self-8484513823f404ed0c0f039f75243bfdede7af7919dda65f2e66391252443ce9.js?body=1 HTTP/1.0" 200 293 0.0037
+157.33.144.64 - - [02/Dec/2018:05:56:00 +0000] "GET /sessions.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1 HTTP/1.0" 200 31 0.0024
+157.33.144.64 - - [02/Dec/2018:05:56:01 +0000] "GET /users.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1 HTTP/1.0" 200 31 0.0027
+157.33.144.64 - - [02/Dec/2018:05:56:01 +0000] "GET /application.self-66347cf0a4cb1f26f76868b4697a9eee457c8c3a6da80c6fdd76ff77e911715e.js?body=1 HTTP/1.0" 200 635 0.0039
+157.33.144.64 - - [02/Dec/2018:05:56:02 +0000] "GET /logo.png HTTP/1.0" 200 9539 0.0048
+157.33.144.64 - - [02/Dec/2018:05:56:03 +0000] "GET /favicon.ico HTTP/1.0" 200 - 0.0008
+195.135.238.10 - - [02/Dec/2018:06:01:01 +0000] "GET / HTTP/1.0" 200 - 0.0333
+177.139.108.100 - - [02/Dec/2018:06:01:40 +0000] "GET / HTTP/1.0" 200 - 0.0380
